@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc4f6354-06f2-4052-bdfb-cf9e5d4b8ceb" name="Changes" comment="" />
+    <list default="true" id="cc4f6354-06f2-4052-bdfb-cf9e5d4b8ceb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EdmKilla/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EdmKilla/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EdmKilla/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EdmKilla/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NowScripts/ColorData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NowScripts/ColorData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NowScripts/ColorIn.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NowScripts/ColorIn.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NowScripts/EnemyValue.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NowScripts/EnemyValue.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NowScripts/FloatData22.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NowScripts/FloatData22.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NowScripts/Health.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NowScripts/Health.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NowScripts/IntChangeData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NowScripts/IntChangeData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NowScripts/MoveUpd.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NowScripts/MoveUpd.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NowScripts/Vector3InfoData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NowScripts/Vector3InfoData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +82,8 @@
       <option name="presentableId" value="Default" />
       <updated>1662168817787</updated>
       <workItem from="1662168828082" duration="6618000" />
+      <workItem from="1662596255135" duration="1208000" />
+      <workItem from="1662602478013" duration="1278000" />
     </task>
     <servers />
   </component>
@@ -71,6 +93,17 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
