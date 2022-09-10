@@ -10,10 +10,24 @@ public class VectorEvent : MonoBehaviour
     public Vector3 schmoove;
 
 
-    public void OnEnable()
+    public void OnMouseOver()
     {
+        schmoove.Set(0, 50, 0);
         teleport.Invoke();
-        schmoove = Vector3.left;
-
     }
+
+    public void moveDat()
+    {
+        schmoove.Set(0, 50, 0);
+        teleport.Invoke();
+        
+    }
+
+    //
+
+
+    // public void Vector3()
+    // {
+    //   teleport.Invoke();  
+    // }
 }

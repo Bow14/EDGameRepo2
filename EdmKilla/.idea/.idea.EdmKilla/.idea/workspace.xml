@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cc4f6354-06f2-4052-bdfb-cf9e5d4b8ceb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.EdmKilla/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EdmKilla/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NowScripts/UnityEvents/VectorEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NowScripts/UnityEvents/VectorEvent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +69,7 @@
       <workItem from="1662596255135" duration="1208000" />
       <workItem from="1662602478013" duration="1278000" />
       <workItem from="1662769166154" duration="2790000" />
+      <workItem from="1662776196515" duration="6527000" />
     </task>
     <servers />
   </component>
